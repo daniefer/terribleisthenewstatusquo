@@ -12,7 +12,7 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'Comming Soon'
+      msg: 'Comming Suun'
     }
   }
 }
